@@ -103,15 +103,6 @@ pip install Pillow
 - Only PNG images are supported for decoding. JPG/JPEG are converted to PNG automatically when encoding.
 - The app will notify you if the cover image is too small.
   
----
-
-## 🖼️ Screenshots (Optional)
-
-Add screenshots showing:
-
-- Encode Tab
-- Decode Tab (text example)
-- Decode Tab (image example)
 
 ---
 
